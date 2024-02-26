@@ -8,7 +8,7 @@
 | Mr Tulagarn 	Sornprasit              | 6488091    |
 
 ## Pages
-- File: Homepage.dart, others.dart, dog_lost_found.dart, cat_lost_found.dart by 6488052 <br /> <br /> 
+- File: homepage.dart, others.dart, dog_lost_found.dart, cat_lost_found.dart by 6488052 <br /> <br /> 
 Homepage:<br /> <br /> 
 <img src="https://github.com/qndska/LostFound/assets/106175374/845ddfb7-bd96-426b-8c96-212e5464bce3" width="200"/>
 <img src="https://github.com/qndska/LostFound/assets/106175374/95a671fb-962c-4ec1-b0a1-847e96f36fb8" width="200"/>
