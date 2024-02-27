@@ -35,6 +35,15 @@ After clicking the profile icon on the navigation bar (profile.dart):<br /> <br 
 After save the information of pet:<br /> <br />
 <img src="https://github.com/qndska/LostFoundPJ/assets/125891778/131ff7f0-da5e-4f8f-bc85-82996ce4b2f5" width="200"/><br /><br />
 
+- File: chat.dart, message.dart, noti1.dart, by 6488074 <br /> <br />
+After clicking the message icon on navigation bar the scene change to chat(chat.dart):<br /> <br /> 
+<img src="https://github.com/qndska/LostFoundPJ/assets/60611475/42cdff26-69b2-420e-b752-6a64d5623a68" width="200"/><br /><br />
+Clicking the User (Guwon) to talk to make a communication in chat room (message.dart)<br /> <br />
+<img src="https://github.com/qndska/LostFoundPJ/assets/60611475/46aeb8b3-a89d-41e8-832c-60eaec573e8d" width="200"/><br /><br />
+Click the notification button in any page to go to the see notification on notification bar (noti.dart)<br /> <br />
+<img src="https://github.com/qndska/LostFoundPJ/assets/60611475/68aa4936-2a87-4f1e-99da-4896349499eb" width="200"/><br /><br /><br />
+
+
 
 
 
