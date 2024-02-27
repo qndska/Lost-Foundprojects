@@ -41,7 +41,7 @@ After clicking the message icon on navigation bar the scene change to chat (chat
 Clicking the User to talk to make a communication in chat room (message.dart):<br /> <br />
 <img src="https://github.com/qndska/LostFoundPJ/assets/60611475/d92a58db-e885-4c5c-bf05-22fdeeb706af" width="200"/>
 <img src="https://github.com/qndska/LostFoundPJ/assets/60611475/84b71f27-46a8-4cfe-9ec8-61d39f0811a4" width="200"/><br /><br />
-Click the notification button in any page to go to the see notification on notification bar (noti.dart):<br /> <br />
+Click the notification button in any page to go to the see notification on notification bar (noti1.dart):<br /> <br />
 <img src="https://github.com/qndska/LostFoundPJ/assets/60611475/68aa4936-2a87-4f1e-99da-4896349499eb" width="200"/><br /><br /><br />
 
 
