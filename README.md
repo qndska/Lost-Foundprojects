@@ -23,3 +23,18 @@ After clicking Cat option on Homepage (cat_lost_found.dart): <br /><br />
 After clicking Others option on Homepage (others.dart):<br /><br />
 <img src="https://github.com/qndska/LostFound/assets/106175374/9d8ca1a3-26cb-473c-8d7a-e541380a4bf9" width="200"/>
 <img src="https://github.com/qndska/LostFound/assets/106175374/4a0071a4-7166-4c99-b124-5b2dbfaed173" width="200"/>
+
+- File: SignIn.dart, SignUp.dart, profile.dart, profileShowDetails.dart by 6488061 <br /> <br /> 
+SignIn page (SignIn.dart):<br /> <br />
+![Screenshot 2024-02-26 211608](https://github.com/qndska/LostFoundPJ/assets/125891778/27a0b53d-0726-41a9-bf4b-f1eb4cc2b784)
+SignUp page (SignUp.dart):<br /> <br />
+![Screenshot 2024-02-26 211612](https://github.com/qndska/LostFoundPJ/assets/125891778/7b9c41c9-f51c-4a18-8ffa-efd217b43394)
+After clicking the profile icon on the navigation bar (profile.dart):<br /> <br />
+![Screenshot 2024-02-13 202024](https://github.com/qndska/LostFoundPJ/assets/125891778/9aa6dd37-8552-4ff9-9bfb-214a3c67bc98)
+![Screenshot 2024-02-13 202036](https://github.com/qndska/LostFoundPJ/assets/125891778/11b9d5ab-a608-451f-b7db-27811e3c7bb5)
+After save the information of pet:<br /> <br />
+![Screenshot 2024-02-13 202046](https://github.com/qndska/LostFoundPJ/assets/125891778/131ff7f0-da5e-4f8f-bc85-82996ce4b2f5)
+
+
+
+
