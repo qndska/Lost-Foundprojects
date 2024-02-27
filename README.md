@@ -9,7 +9,7 @@
 
 ## Pages
 - File: homepage.dart, others.dart, dog_lost_found.dart, cat_lost_found.dart by 6488052 <br /> <br /> 
-Homepage (homepage.dart):<br /> <br /> 
+After clicking the homepage icon  on the navigation bar (homepage.dart):<br /> <br /> 
 <img src="https://github.com/qndska/LostFound/assets/106175374/845ddfb7-bd96-426b-8c96-212e5464bce3" width="200"/>
 <img src="https://github.com/qndska/LostFound/assets/106175374/95a671fb-962c-4ec1-b0a1-847e96f36fb8" width="200"/>
 <img src="https://github.com/qndska/LostFound/assets/106175374/31f7b392-6fb5-4c31-af57-becbeac67712" width="200"/>
