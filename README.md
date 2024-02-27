@@ -36,7 +36,7 @@ After save the information of pet:<br /> <br />
 <img src="https://github.com/qndska/LostFoundPJ/assets/125891778/131ff7f0-da5e-4f8f-bc85-82996ce4b2f5" width="200"/><br /><br />
 
 - File: chat.dart, message.dart, noti1.dart, by 6488074 <br /> <br />
-After clicking the message icon on navigation bar the scene change to chat(chat.dart):<br /> <br /> 
+After clicking the message icon on navigation bar the scene change to chat (chat.dart):<br /> <br /> 
 <img src="https://github.com/qndska/LostFoundPJ/assets/60611475/42cdff26-69b2-420e-b752-6a64d5623a68" width="200"/><br /><br />
 Clicking the User to talk to make a communication in chat room (message.dart):<br /> <br />
 <img src="https://github.com/qndska/LostFoundPJ/assets/60611475/d92a58db-e885-4c5c-bf05-22fdeeb706af" width="200"/>
