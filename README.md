@@ -22,7 +22,7 @@ After clicking Cat option on Homepage (cat_lost_found.dart): <br /><br />
 <img src="https://github.com/qndska/LostFound/assets/106175374/812ad528-a2bd-4224-8193-e643739abd8d" width="200"/><br /><br />
 After clicking Others option on Homepage (others.dart):<br /><br />
 <img src="https://github.com/qndska/LostFound/assets/106175374/9d8ca1a3-26cb-473c-8d7a-e541380a4bf9" width="200"/>
-<img src="https://github.com/qndska/LostFound/assets/106175374/4a0071a4-7166-4c99-b124-5b2dbfaed173" width="200"/><br /><br /><br /><br />
+<img src="https://github.com/qndska/LostFound/assets/106175374/4a0071a4-7166-4c99-b124-5b2dbfaed173" width="200"/><br /><br /><br />
 
 - File: SignIn.dart, SignUp.dart, profile.dart, profileShowDetails.dart by 6488061 <br /> <br /> 
 SignIn page (SignIn.dart):<br /> <br />
