@@ -1,4 +1,4 @@
-![image](https://github.com/qndska/LostFoundPJ/assets/142898592/284be306-e1f1-4c79-ab2f-345c01e807cd)## Members
+## Members
 
 | Name                               | Student ID |
 |------------------------------------|------------|
