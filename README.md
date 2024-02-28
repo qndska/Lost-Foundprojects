@@ -1,4 +1,4 @@
-## Members
+![image](https://github.com/qndska/LostFoundPJ/assets/142898592/284be306-e1f1-4c79-ab2f-345c01e807cd)## Members
 
 | Name                               | Student ID |
 |------------------------------------|------------|
@@ -43,6 +43,12 @@ Clicking the User to talk to make a communication in chat room (message.dart):<b
 <img src="https://github.com/qndska/LostFoundPJ/assets/60611475/84b71f27-46a8-4cfe-9ec8-61d39f0811a4" width="200"/><br /><br />
 Click the notification button in any page to go to the see notification on notification bar (noti1.dart):<br /> <br />
 <img src="https://github.com/qndska/LostFoundPJ/assets/60611475/68aa4936-2a87-4f1e-99da-4896349499eb" width="200"/><br /><br /><br />
+
+- File: Location.dart by 6488091
+The page is linked to Google Maps API to display the map.
+<img src="https://github.com/qndska/LostFoundPJ/assets/142898592/f6d82379-fd4e-4976-a1db-367ca5e3645f)" width="200"/><br /><br /><br />
+
+
 
 
 
