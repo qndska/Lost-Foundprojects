@@ -42,8 +42,8 @@ Clicking the User to talk to make a communication in chat room (message.dart):<b
 Click the notification button in any page to go to the see notification on notification bar (noti1.dart):<br /> <br />
 <img src="https://github.com/qndska/LostFoundPJ/assets/60611475/68aa4936-2a87-4f1e-99da-4896349499eb" width="200"/><br /><br /><br />
 
-- File: Location.dart by 6488091 <br /><br />
-The page is linked to Google Maps API to display the map.<br /><br />
+- File: Location.dart, SignUp.dart by 6488091 <br /><br />
+The page is linked to Google Maps API to display the map (Location.dart):<br /><br />
 <img src="https://github.com/qndska/LostFoundPJ/assets/142898592/f6d82379-fd4e-4976-a1db-367ca5e3645f)" width="200"/><br /><br /><br />
 SignUp page (SignUp.dart):<br /> <br />
 <img src="https://github.com/qndska/LostFoundPJ/assets/125891778/7b9c41c9-f51c-4a18-8ffa-efd217b43394" width="200"/><br /><br />
