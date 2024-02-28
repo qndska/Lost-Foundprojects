@@ -45,7 +45,7 @@ Click the notification button in any page to go to the see notification on notif
 <img src="https://github.com/qndska/LostFoundPJ/assets/60611475/68aa4936-2a87-4f1e-99da-4896349499eb" width="200"/><br /><br /><br />
 
 - File: Location.dart by 6488091
-The page is linked to Google Maps API to display the map.
+The page is linked to Google Maps API to display the map.<br /><br />
 <img src="https://github.com/qndska/LostFoundPJ/assets/142898592/f6d82379-fd4e-4976-a1db-367ca5e3645f)" width="200"/><br /><br /><br />
 
 
