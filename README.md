@@ -24,7 +24,7 @@ After clicking Others option on Homepage (others.dart):<br /><br />
 <img src="https://github.com/qndska/LostFound/assets/106175374/9d8ca1a3-26cb-473c-8d7a-e541380a4bf9" width="200"/>
 <img src="https://github.com/qndska/LostFound/assets/106175374/4a0071a4-7166-4c99-b124-5b2dbfaed173" width="200"/><br /><br /><br />
 
-- File: SignIn.dart, SignUp.dart, profile.dart, profileShowDetails.dart by 6488061 <br /> <br /> 
+- File: SignIn.dart, profile.dart, profileShowDetails.dart by 6488061 <br /> <br /> 
 SignIn page (SignIn.dart):<br /> <br />
 <img src="https://github.com/qndska/LostFoundPJ/assets/125891778/27a0b53d-0726-41a9-bf4b-f1eb4cc2b784" width="200"/><br /><br />
 After clicking the profile icon on the navigation bar (profile.dart):<br /> <br />
