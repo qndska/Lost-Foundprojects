@@ -243,7 +243,7 @@ Future<bool> loginUser(String email, String password) async {
       if (password == storedPassword) {
         globals.isLoggedIn=true;
         globals.current_user = userDoc['User_username'].toString();
-        int? userId = await globals.getUserIdByName(email);
+        int? userId = await globals.getUserIdByEmail(email);
         if (userId != null) {
           globals.Current_userID=userId;
         } else {

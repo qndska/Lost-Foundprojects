@@ -64,7 +64,7 @@ class  _MyCatLostFoundState extends State<CatLostFound> {
       appBar: AppBar(
         backgroundColor: Colors.white,
         title: const Text(
-          'Dog',
+          'Cat',
           style: TextStyle(
             fontWeight: FontWeight.bold,
             color: Color(0xFF26117A),

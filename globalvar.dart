@@ -56,6 +56,26 @@ Future<int?> getUserIdByName(String name) async {
   return userId;
 }
 
+Future<int?> getUserIdByEmail(String email) async {
+  int? userId;
+
+  // Query Firestore for the document with name equal to the specified value
+  QuerySnapshot querySnapshot = await FirebaseFirestore.instance
+    .collection('User')
+    .where('User_email', isEqualTo: email)
+    .limit(1)
+    .get();
+
+  // If there is a matching document, retrieve its userID
+  if (querySnapshot.docs.isNotEmpty) {
+    // Parse the 'User_ID' field to an integer
+    userId = int.tryParse(querySnapshot.docs.first.get('User_ID'));
+  }
+
+  // Return userId directly
+  return userId;
+}
+
 Future<String?> getUsernameByID(String id) async {
   String? username;
 

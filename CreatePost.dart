@@ -41,31 +41,27 @@ class _CreatePost extends State<CreatePostPage> with TickerProviderStateMixin {
   List<PickedFile> selectedImages = [];
   String current_user = globals.current_user.toString();
 
- var _selectedTab = _SelectedTab.Profile; // Nav bar
+ var _selectedTab = _SelectedTab.AddPost; // Nav bar
   void _handleIndexChanged(int i) {
     // Nav bar
     setState(() {
       _selectedTab = _SelectedTab.values[i];
       if (_selectedTab == _SelectedTab.Home) {
-        // Navigate to Profile
         Navigator.push(
           context,
           MaterialPageRoute(builder: (context) => HomePage()),
         );
       } else if (_selectedTab == _SelectedTab.Profile) {
-        // Navigate to Profile
         Navigator.push(
           context,
           MaterialPageRoute(builder: (context) => const FormPage()),
         );
       } else if (_selectedTab == _SelectedTab.Chat) {
-        // Navigate to Profile
         Navigator.push(
           context,
           MaterialPageRoute(builder: (context) => const Chat()),
         );
       } else if (_selectedTab == _SelectedTab.AddPost) {
-        // Navigate to Profile
         Navigator.push(
           context,
           MaterialPageRoute(builder: (context) => CreatePostPage()),
@@ -202,7 +198,7 @@ class _CreatePost extends State<CreatePostPage> with TickerProviderStateMixin {
               Row(
                 children: [
                   const Text(
-                    "Describe your pet so that people could find them more easily",
+                    "Describe your pet",
                     style: TextStyle(
                       fontSize: 24,
                       color: Color.fromARGB(255, 250, 86, 114),

@@ -64,7 +64,7 @@ class  _MyothersLostFoundState extends State<othersLostFound> {
       appBar: AppBar(
         backgroundColor: Colors.white,
         title: const Text(
-          'Dog',
+          'Others',
           style: TextStyle(
             fontWeight: FontWeight.bold,
             color: Color(0xFF26117A),
