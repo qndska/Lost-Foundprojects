@@ -228,7 +228,7 @@ Future<bool> loginUser(String email, String password) async {
     // Retrieve the user document from the "User" collection based on the provided email
     QuerySnapshot querySnapshot = await FirebaseFirestore.instance
         .collection('User')
-        .where('User_username', isEqualTo: email)
+        .where('User_email' , isEqualTo: email)
         .get();
 
     // Check if any user with the provided email exists
@@ -242,7 +242,7 @@ Future<bool> loginUser(String email, String password) async {
       // Check if the password matches the stored password
       if (password == storedPassword) {
         globals.isLoggedIn=true;
-        globals.current_user = email.toString();
+        globals.current_user = userDoc['User_username'].toString();
         int? userId = await globals.getUserIdByName(email);
         if (userId != null) {
           globals.Current_userID=userId;
